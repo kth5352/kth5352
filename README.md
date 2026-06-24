@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 김태현 · Frontend Developer
+# 김태현 · Frontend Developer
 
 **복잡한 데이터를 사용자가 한눈에 이해하는 화면으로 바꾸는 프론트엔드 개발자**
 
